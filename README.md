@@ -51,14 +51,10 @@ A E-Commerce project which has different features such as:
 ![cart](https://user-images.githubusercontent.com/39642646/211143383-0a3f3940-4391-459f-ab45-1289bee757ea.png)
 ![wishlist](https://user-images.githubusercontent.com/39642646/211143404-5aff17db-e865-4c0d-98d1-ce471461d52c.png)
 
-## 👨 Author Info
 
 ---
 
-👤 **Karthik Nayak**
 
-- Twitter - [@KarthikNayak98](https://twitter.com/KarthikNayak98)
-- LinkedIn - [Karthik Nayak](https://www.linkedin.com/in/karthiknayak98)
 
 ## 📝 License
 
