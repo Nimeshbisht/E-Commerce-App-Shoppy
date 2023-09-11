@@ -56,8 +56,4 @@ A E-Commerce project which has different features such as:
 
 
 
-## 📝 License
 
-Copyright © 2021 [Karthik Nayak](https://github.com/karthik-nayak98).<br /> This
-project is [MIT](https://github.com/Karthik-Nayak98/e-commerce-app/blob/main/LICENSE)
-licensed.
